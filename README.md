@@ -11,21 +11,6 @@ Welcome to the Online Quiz Maker project! This project allows users to create, m
 - **client/**: The front-end of the application.
 - **server/**: The back-end of the application.
 
-## Screenshot of the Quiz Interface
-
-![Quiz Interface](D:\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 223225.png)
-
-## Screenshot of Create Quiz Page
-
-![Quiz Interface](D:\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 223244.png)
-
-## Screenshot of the Take Quiz Page
-
-![Quiz Interface](D:\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 223301.png)
-
-## Screenshot of the Delete Quiz Page
-
-![Quiz Interface](D:\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 223314.png)
 
 ## Technologies Used
 - Front-end: HTML, CSS, JavaScript
