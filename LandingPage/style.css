@@ -1,0 +1,118 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c46e9c;
+    padding: 1rem 2rem;
+  }
+  
+  .navbar .logo {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navbar .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .navbar .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .navbar .nav-links a:hover {
+    color: #5e0032;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background: url('https://wallpapers.com/images/featured/digital-art-background-98hwar6swibxmlqv.jpg') no-repeat center center/cover;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #5e0032;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn {
+    padding: 0.8rem 2rem;
+    background-color: #c34186;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #332e2e;
+  }
+  
+  /* About Section */
+  .about, .services, .contact {
+    background: url('https://marketplace.canva.com/EAGVTVfRE_I/1/0/1131w/canva-bue-and-white-watercolor-background-document-a4-0ziHZDR-m-Y.jpg') no-repeat center center/cover;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  /* Services Section */
+  .service-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .service-box {
+    background: #ffa5d5;
+    padding: 2rem;
+    border-radius: 10px;
+    flex: 1;
+    transition: transform 0.3s;
+  }
+  
+  .service-box:hover {
+    transform: translateY(-10px);
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
