@@ -6,12 +6,10 @@ This is a beginner-friendly **Landing Page** project built using **HTML** and **
 
 ## 📸 Demo Preview
 
-> Add your screenshot or GitHub Pages link here
+[Screenshot 2025-04-29 132446](https://github.com/user-attachments/assets/1c8fb420-c784-4ccd-b152-5e397d741f5d)
 
-![Landing Page Screenshot](![Screenshot 2025-04-29 132446](https://github.com/user-attachments/assets/1c8fb420-c784-4ccd-b152-5e397d741f5d)
-)
-(![Screenshot 2025-04-29 132456](https://github.com/user-attachments/assets/74199852-beef-4c4e-9f02-0f7ca8e50ba4)
-)
+[Screenshot 2025-04-29 132456](https://github.com/user-attachments/assets/74199852-beef-4c4e-9f02-0f7ca8e50ba4)
+
 
 
 ---
